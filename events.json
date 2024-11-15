@@ -1,0 +1,59 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "createdBy": 1,
+      "title": "Italiaanse Avond: Bruschetta Workshop",
+      "description": "Leer de kunst van het maken van authentieke Italiaanse bruschetta met verse tomaten, basilicum en knoflook.",
+      "image": "https://images.pexels.com/photos/15846842/pexels-photo-15846842/free-photo-of-cafe-ontbijt.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "location": "Gusto's Italian Kitchen",
+      "startTime": "2023-12-01T18:00:00.000Z",
+      "endTime": "2023-12-01T20:00:00.000Z",
+      "categories": [1, 3]
+    },
+    {
+      "id": 2,
+      "createdBy": 2,
+      "title": "Mexicaanse Taco Fiesta",
+      "description": "Maak je eigen taco's met een verscheidenheid aan ingrediënten en sauzen. Perfect voor liefhebbers van de Mexicaanse keuken!",
+      "image": "https://images.pexels.com/photos/28959272/pexels-photo-28959272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "location": "El Toro Loco",
+      "startTime": "2023-12-05T18:30:00.000Z",
+      "endTime": "2023-12-05T21:00:00.000Z",
+      "categories": [2, 3]
+    },
+    {
+      "id": 3,
+      "createdBy": 3,
+      "title": "Franse Patisserie Workshop",
+      "description": "Ontdek de geheimen van Franse gebakjes maken, inclusief éclairs, macarons en tartelettes.",
+      "image": "https://images.pexels.com/photos/29380164/pexels-photo-29380164/free-photo-of-gourmet-eclair-met-bijpassende-wijn-op-een-elegante-tafel.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "location": "Le Petit Chef",
+      "startTime": "2023-12-10T14:00:00.000Z",
+      "endTime": "2023-12-10T17:00:00.000Z",
+      "categories": [3, 4]
+    },
+    {
+      "id": 4,
+      "createdBy": 4,
+      "title": "Japans Sushi Rols Avond",
+      "description": "Probeer de traditionele kunst van sushi rollen onder begeleiding van een Japanse chef.",
+      "image": "https://images.pexels.com/photos/14623894/pexels-photo-14623894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "location": "Tokyo Delight",
+      "startTime": "2023-12-12T19:00:00.000Z",
+      "endTime": "2023-12-12T21:30:00.000Z",
+      "categories": [1, 5]
+    },
+    {
+      "id": 5,
+      "createdBy": 5,
+      "title": "Griekse Meze Proeverij",
+      "description": "Geniet van een avond vol Griekse smaken met verschillende meze-gerechten zoals tzatziki, dolmades en spanakopita.",
+      "image": "https://images.pexels.com/photos/15029823/pexels-photo-15029823/free-photo-of-voedsel-eten-salade-gezond.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "location": "Athenian Nights",
+      "startTime": "2023-12-15T17:30:00.000Z",
+      "endTime": "2023-12-15T20:00:00.000Z",
+      "categories": [2, 4]
+    }
+  ]
+}

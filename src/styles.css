@@ -1,0 +1,6 @@
+.event-image {
+  width: 400px; /* Pas deze waarden aan naar wens */
+  height: 400px;
+  object-fit: cover; /* Zorgt ervoor dat de afbeelding het kader vult zonder vervorming */
+  border-radius: 8px; /* Optioneel: maakt de hoeken afgerond */
+}
